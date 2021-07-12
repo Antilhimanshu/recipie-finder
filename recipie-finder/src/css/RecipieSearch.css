@@ -1,0 +1,22 @@
+h4{
+    text-align:center;
+    color:#826D6F;
+    font-size: xx-large;
+    margin:0;
+    padding:20px;
+}
+form{
+    text-align:center
+}
+input{
+    padding:10px;
+    border-radius: 5px;
+    border:1px solid white;
+    
+}
+button{
+    padding:10px;
+    border:1px solid grey;
+    border-radius:5px;
+    margin-left:5px;
+}

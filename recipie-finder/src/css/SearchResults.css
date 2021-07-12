@@ -1,0 +1,43 @@
+.heading{
+    text-align:center;
+    color:#6D5670;
+    background-color:#F8EED4;
+    padding:1px;
+}
+.container{
+    margin:0 10px 0 10px;
+    background-color: #D9D8EC;
+    padding-bottom:10%;
+}
+.inline{
+    display: inline-block;
+}
+.imagePane{
+width: 30%;
+margin-top:-1rem;
+text-align: center;
+
+justify-content: center;
+flex-direction: row-reverse;
+/* border:1px solid black; */
+position: relative;
+top:-195px;
+}
+.dataPane{
+width:69%;
+}
+.imagePane > img{
+    width: 80%;
+    height: 80%;
+    border:3px solid black;
+    margin-top:10%
+  
+}
+.ingredientsPane{
+    height: 15rem;
+    overflow-x:scroll;
+    background-color: #D7D0D0;
+}
+.recipieInstructionPane{
+    background-color: #D7D0D0;
+}
